@@ -1,2 +1,2 @@
 # Blood-Bank-Management-System
-The basic building aim is to provide online blood bank service to the people. It is a browser-based system that is designed to store, process, retrieve and analyse information concerned with the administrative and inventory management within a blood bank system. 
+The Blood Bank Management System is a web-based application designed using HTML, CSS, and JavaScript for the frontend, and powered by backend technologies to efficiently manage donor and recipient information, blood inventory, and donation requests in a user-friendly interface. 
